@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "selenium-csharep", "selenium-csharep\selenium-csharep.csproj", "{9DFDD3B0-3370-41E6-94F6-8106CD9CB91E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DFDD3B0-3370-41E6-94F6-8106CD9CB91E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DFDD3B0-3370-41E6-94F6-8106CD9CB91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DFDD3B0-3370-41E6-94F6-8106CD9CB91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DFDD3B0-3370-41E6-94F6-8106CD9CB91E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4298B79E-B964-4217-80B0-CF10072E2BD1}
+	EndGlobalSection
+EndGlobal
